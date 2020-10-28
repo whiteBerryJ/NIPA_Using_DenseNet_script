@@ -50,5 +50,4 @@
 
 
 
-Written by 정진균
 
