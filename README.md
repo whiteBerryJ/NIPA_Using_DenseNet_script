@@ -55,4 +55,4 @@
    
    최종적으로 정확도는 0.9825 -> 0.9887 로 어느정도 fine-tuning의 효과가 있었다. (중간에 런타임 오류로 끝나지 않았으면 더 높아졌을 수도..)
 
-
+[DenseNet 이미지](https://pdfs.semanticscholar.org/c3d9/26a85d85a83126f405ad40ff453611148c15.pdf)
